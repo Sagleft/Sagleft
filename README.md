@@ -1,5 +1,5 @@
-<a href="https://t.me/get_matrixbot?start=github_org">
-  <img align="center" src="https://github.com/Sagleft/Sagleft/blob/master/matrixbot_github_banner_1.png?raw=true">
+<a href="https://t.me/+nM_zOTDegRI0MGUy">
+  <img align="center" src="https://github.com/Sagleft/Sagleft/blob/master/tg_channel_banner.png?raw=true">
 </a>
 
 <a href="https://github.com/sagleft">
